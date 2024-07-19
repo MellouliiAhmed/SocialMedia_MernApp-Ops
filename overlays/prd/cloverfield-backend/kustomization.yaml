@@ -1,0 +1,11 @@
+bases:
+  - ../../../base/cloverfield-backend
+
+patches:
+  - replica_count.yaml
+
+namespace: clover-prd
+
+images:
+  - name: mellouliiahmed/cloverfield-backend
+    newTag: prd

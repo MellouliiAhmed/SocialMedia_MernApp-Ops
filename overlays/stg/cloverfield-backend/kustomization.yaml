@@ -1,0 +1,8 @@
+bases:
+  - ../../../base/cloverfield-backend
+  
+namespace: clover-stg
+
+images:
+  - name: mellouliiahmed/cloverfield-backend
+    newTag: stg

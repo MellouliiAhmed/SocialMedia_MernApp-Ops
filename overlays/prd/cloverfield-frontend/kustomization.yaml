@@ -1,0 +1,8 @@
+bases:
+  - ../../../base/cloverfield-frontend
+
+namespace: clover-prd
+
+images:
+  - name: mellouliiahmed/cloverfield-frontend
+    newTag: prd
