@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend 
-        image: cloverfield-backend:prd
+        image: mellouliiahmed/cloverfield-backend:prd
         ports:
         - containerPort: 80

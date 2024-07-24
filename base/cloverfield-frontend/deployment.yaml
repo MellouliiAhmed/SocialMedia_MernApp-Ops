@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: front 
-        image: cloverfield-frontend:prd
+        image: mellouliiahmed/cloverfield-frontend:prd
         ports:
         - containerPort: 80
