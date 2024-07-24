@@ -5,4 +5,4 @@ namespace: clover-stg
 
 images:
   - name: mellouliiahmed/cloverfield-backend
-    newTag: stg
+    newTag: c05fe54
