@@ -5,4 +5,4 @@ namespace: clover-prd
 
 images:
   - name: mellouliiahmed/cloverfield-frontend
-    newTag: prd
+    newTag: bf14bc5
