@@ -1,0 +1,7 @@
+
+namespace: clover-stg
+
+
+resources:
+- cloverfield-frontend
+- cloverfield-backend

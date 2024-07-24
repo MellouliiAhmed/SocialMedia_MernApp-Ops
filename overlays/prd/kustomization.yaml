@@ -1,0 +1,7 @@
+
+namespace: clover-prd
+
+
+resources:
+- cloverfield-frontend
+- cloverfield-backend
