@@ -1,8 +1,14 @@
-bases:
+# bases:
+#   - ../../../base/cloverfield-backend
+
+# patches:
+#   - replica_count.yaml
+
+resources:
   - ../../../base/cloverfield-backend
 
-patches:
-  - replica_count.yaml
+patchesStrategicMerge:
+  - replica_count.yaml  
 
 namespace: clover-prd
 
