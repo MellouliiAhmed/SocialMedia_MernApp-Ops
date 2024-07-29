@@ -6,4 +6,4 @@ namespace: clover-stg
 
 images:
   - name: mellouliiahmed/cloverfield-frontend
-    newTag: "1227f29"
+    newTag: "79f8563"
