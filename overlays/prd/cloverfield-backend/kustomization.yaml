@@ -14,4 +14,4 @@ namespace: clover-prd
 
 images:
   - name: mellouliiahmed/cloverfield-backend
-    newTag: 9a1cba2
+    newTag: "3c0fcce"
